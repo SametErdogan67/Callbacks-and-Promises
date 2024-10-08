@@ -6,7 +6,7 @@ sum (3,4, (result) => {
     console.log("The sum is:", result);
 });*/
 
-const { error } = require("console");
+// const { error } = require("console");
 
 /*const greet = (name, callback) =>{
     console.log(`Hello, ${name}!`);
